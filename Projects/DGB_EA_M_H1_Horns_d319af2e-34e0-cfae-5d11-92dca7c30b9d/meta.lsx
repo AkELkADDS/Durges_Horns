@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="d319af2e-34e0-cfae-5d11-92dca7c30b9d"/>
+            <attribute id="Name" type="LSString" value="DGB_EA_M_H1_Horns"/>
+            <attribute id="UUID" type="LSString" value="0f0fa544-5239-6e8a-f4a0-64faff33d1b7"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

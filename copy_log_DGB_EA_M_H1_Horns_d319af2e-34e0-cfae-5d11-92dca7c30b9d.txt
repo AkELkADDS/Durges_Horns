@@ -1,0 +1,410 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d 
+   Mon 05/19/2025  6:52:25.50 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d: 1 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_BothBroken.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_BothBroken.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_R.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_Whole.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_Whole.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Assets\Textures\Icons\DMH_TifHorns_Abyssal_Atlas.dds 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Assets\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_BhaalPr_GM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Assets\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_BhaalPr_NM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Assets\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_BM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Assets\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_MSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Assets\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_NM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Assets\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_PM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\005ae543-5059-22f1-b706-c8f64a52fa6d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\088d6ef9-aa5b-2f3b-ffa7-1922269aaa6e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\24ec3973-6e56-dfde-5f20-c464b8566fb4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\2cb70187-5690-4c9c-9351-368649e5f4fc.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\5f475a3a-5863-6e30-d13f-932f34c0ed57.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\7b9cf74b-ba14-af7a-eb75-a871e00ecfa3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\84f5a3cf-ba0f-2211-63df-9ddc353e7a0e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\9af5bec7-1023-3a93-5571-107de7d6b509.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\b5ebdd6a-8d9c-b19f-4e35-e99483763066.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\b6b8b5ff-4d94-ae3e-f26f-cbe60691982a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\ba1e22d9-4c3a-4cba-adda-98202e526e81.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\d6151f64-dfbb-49d7-9f85-e6803eb9a76f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\d6fdc511-6fae-2c8e-4fa9-0ee861d83efb.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\d98c1a30-5da3-bcd8-0974-59e3b04dba60.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\df5b20b6-45ae-4062-bb22-94772ba81859.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\ead7dc04-369d-cf56-fc41-a45e358a6d26.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\fd859f80-a6ff-ceed-9942-ad1767205ec5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\GUI\DMH_TifHorns_Abyssal_Atlas.lsx 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d: 34 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_BothBroken.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_Glow.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_Glow_BothBroken.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_Glow_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_Glow_Whole.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_Whole.GR2 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d: 8 
+ 
+[LOG] Total files found across all folders: 49 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Projects\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d to Projects\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d 
+[DEBUG] Using destination: Projects\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:52:29 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Projects\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     695	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\meta.lsx100%  
+	    New File  		  803900	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\thumbnail.png100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :   785.7 k   785.7 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           804595000 Bytes/sec.
+   Speed :           46039.295 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:52:29 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Editor\Mods\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d to "Editor\Mods"\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d 
+[DEBUG] Using destination: Editor\Mods\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:52:30 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Editor\Mods\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   10589	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\CharacterCreation\CharacterCreationAppearanceVisuals.tbl  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         2         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    10.3 k    10.3 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, May 19, 2025 6:52:30 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Mods\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d to Mods\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d 
+[DEBUG] Using destination: Mods\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:52:32 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Mods\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    5689	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\meta.lsx100%  
+	    New File  		  803900	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\mod_publish_logo.png100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\GUI\metadata.lsf100%  
+	    New File  		    1055	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :   792.7 k   792.7 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           202946250 Bytes/sec.
+   Speed :           11612.677 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:52:32 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d to Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d 
+[DEBUG] Using destination: Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:52:34 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    7135	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		    4693	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\GUI\DMH_TifHorns_Abyssal_Atlas.lsx100%  
+	    New File  		    1696	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\005ae543-5059-22f1-b706-c8f64a52fa6d.lsf100%  
+	    New File  		    2855	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\088d6ef9-aa5b-2f3b-ffa7-1922269aaa6e.lsf100%  
+	    New File  		    1672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\24ec3973-6e56-dfde-5f20-c464b8566fb4.lsf100%  
+	    New File  		    2825	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\2cb70187-5690-4c9c-9351-368649e5f4fc.lsf100%  
+	    New File  		    1672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\5f475a3a-5863-6e30-d13f-932f34c0ed57.lsf100%  
+	    New File  		    1675	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\7b9cf74b-ba14-af7a-eb75-a871e00ecfa3.lsf100%  
+	    New File  		    2808	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\84f5a3cf-ba0f-2211-63df-9ddc353e7a0e.lsf100%  
+	    New File  		    1696	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\9af5bec7-1023-3a93-5571-107de7d6b509.lsf100%  
+	    New File  		    2890	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\b5ebdd6a-8d9c-b19f-4e35-e99483763066.lsf100%  
+	    New File  		    1672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\b6b8b5ff-4d94-ae3e-f26f-cbe60691982a.lsf100%  
+	    New File  		    2796	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\ba1e22d9-4c3a-4cba-adda-98202e526e81.lsf100%  
+	    New File  		    2850	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\d6151f64-dfbb-49d7-9f85-e6803eb9a76f.lsf100%  
+	    New File  		    1608	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\d6fdc511-6fae-2c8e-4fa9-0ee861d83efb.lsf100%  
+	    New File  		    2830	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\d98c1a30-5da3-bcd8-0974-59e3b04dba60.lsf100%  
+	    New File  		    2803	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\df5b20b6-45ae-4062-bb22-94772ba81859.lsf100%  
+	    New File  		    2801	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\ead7dc04-369d-cf56-fc41-a45e358a6d26.lsf100%  
+	    New File  		    6337	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Content\[PAK]_DGB_EA_M_H1_Horns\fd859f80-a6ff-ceed-9942-ad1767205ec5.lsf100%  
+	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Assets\Textures\Icons\DMH_TifHorns_Abyssal_Atlas.dds100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Assets\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_BhaalPr_GM.DDS100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Assets\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_BhaalPr_NM.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Assets\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_BM.DDS100%  
+	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Assets\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_MSK.DDS100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Assets\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_NM.DDS100%  
+	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Assets\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_PM.DDS100%  
+	    New File  		  133680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach.GR2100%  
+	    New File  		     269	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach.xml100%  
+	    New File  		  138772	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_BothBroken.GR2100%  
+	    New File  		     280	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_BothBroken.xml100%  
+	    New File  		  133680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_R.GR2100%  
+	    New File  		     271	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_R.xml100%  
+	    New File  		  134504	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_Whole.GR2100%  
+	    New File  		     275	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_Whole.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        19        19         1         0         0         0
+   Files :        34        34         0         0         0         0
+   Bytes :   35.57 m   35.57 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           532832528 Bytes/sec.
+   Speed :           30488.921 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:52:34 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 34 
+[DEBUG] Successfully copied files: 34 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d: 
+      Total files: 34 
+      Copied successfully: 34 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Generated\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d to "Generated\Public"\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d 
+[DEBUG] Using destination: Generated\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:52:35 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\Generated\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		  133680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach.GR2100%  
+	    New File  		  138772	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_BothBroken.GR2100%  
+	    New File  		  133680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_Glow.GR2100%  
+	    New File  		  138772	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_Glow_BothBroken.GR2100%  
+	    New File  		  133680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_Glow_R.GR2100%  
+	    New File  		  134504	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_Glow_Whole.GR2100%  
+	    New File  		  133680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_R.GR2100%  
+	    New File  		  134504	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d\AkELkA Mods_DurgeMH\AkELkA_Durge's_mangled_head\Generated\Public\AkELkA_DGB_Heads\_Male\Horns\DGB_M_HornsTIF_D_EL_Mangled\DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_Whole.GR2100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         9         9         1         0         0         0
+   Files :         8         8         0         0         0         0
+   Bytes :    1.03 m    1.03 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           120141333 Bytes/sec.
+   Speed :            6874.542 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:52:35 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 8 
+[DEBUG] Successfully copied files: 8 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d: 
+      Total files: 8 
+      Copied successfully: 8 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 34 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_EA_M_H1_Horns_d319af2e-34e0-cfae-5d11-92dca7c30b9d 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 8 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 49 
+[SUMMARY] Total files successfully copied: 98 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 

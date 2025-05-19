@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3b034ae3-d260-4a73-b10f-9e954489d19d">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c470a6a7-8e19-4d47-a235-c65267778b5c" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Horns" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="ba1e22d9-4c3a-4cba-adda-98202e526e81" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h12a88cd6g8ec4g5691g5c6ag2ac13790a989" version="4" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_D_EL_HornsTIF_Karlach" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_MD_Horns_Plain_L" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a68ad331-d858-406f-8e09-c75fcb15a159" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Horns" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="df5b20b6-45ae-4062-bb22-94772ba81859" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he82b28e4g73e2gb8aeg1f73g9e626e80db00" version="3" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_R" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_MD_Horns_Plain_R" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d6982cd4-7c68-460a-9d11-4adddea43913" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Horns" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="d6151f64-dfbb-49d7-9f85-e6803eb9a76f" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h273a6e00gc8aeg9db7ge6edgcabd92ab2c0c" version="3" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_BothBroken" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_MD_Horns_Broken_Both" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="79266cbf-0908-4c37-ad05-e20733b61c3b" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Horns" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="2cb70187-5690-4c9c-9351-368649e5f4fc" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbbdbadd3gf518ge935g1dfcg24bb91af7163" version="3" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_Whole" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_MD_Horns_Plain_Both" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_4" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c83e7b51-f218-4c15-83c4-0648e46999b8" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Horns" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="ead7dc04-369d-cf56-fc41-a45e358a6d26" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="heb09d30agf176gc556gfe03g7892941b0c56" version="3" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_Glow" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_MD_Horns_Abyssal_L" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b825f5eb-6c21-468c-9829-8ee9546f4416" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Horns" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="84f5a3cf-ba0f-2211-63df-9ddc353e7a0e" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc42d57ddg7404g6485g33e0gb53e1c8367df" version="2" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_Glow_R" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_MD_Horns_Abyssal_R" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_6" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4534570b-3f65-42dd-8489-2f253f2369cd" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Horns" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="088d6ef9-aa5b-2f3b-ffa7-1922269aaa6e" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h35d2658dg0208gd301g48b3g3a2e06c58281" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_Glow_BothBroken" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_MD_Horns_Abyssal_Broken_Both" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_7" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b7565948-5ff6-447d-b370-db708752f1fd" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Horns" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="d98c1a30-5da3-bcd8-0974-59e3b04dba60" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb8aa1e96gb17fg2b41g601fg9f9eb26376cf" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_D_EL_HornsTIF_Karlach_Glow_Whole" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_MD_Horns_Abyssal_Both" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
